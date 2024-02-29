@@ -2,7 +2,7 @@ repo_name: Tisha211/matrix-admin-bt5
 report_id: bebfb661d33bacaa1692cd8245498bee
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-10T19:22:15+00:00'
+timestamp: '2024-02-29T19:25:45+00:00'
 requested_by: javiyadeep
 provider: github
 branch: master
@@ -196,7 +196,7 @@ tools:
   last_updated_by: vishal-wrap
   last_updated_on: 2018-05-28 11:43:47.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   license: MIT
   open_source: true
