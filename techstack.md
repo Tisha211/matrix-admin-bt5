@@ -3,25 +3,25 @@
 ## Tech Stack
 Tisha211/matrix-admin-bt5 is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Browserify](http://browserify.org/) – Front End Package Manager
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [JSHint](http://www.jshint.com/about/) – Code Review
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [JSHint](http://www.jshint.com/about/) – Code Review
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
 - [Prettier](https://prettier.io/) – Code Review
-- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Tisha211/matrix-admin-bt5 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Tisha211/matrix-admin-bt5](https://github.com/Tisha211/matrix-admin-bt5)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|01/10/24 <br/>Report generated|
+|70<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
